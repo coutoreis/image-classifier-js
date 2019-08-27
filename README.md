@@ -1,2 +1,2 @@
 # Image Classifier
-## Initializing project...
+A simple Tensorflow Image and Video Classification using Javascript.
